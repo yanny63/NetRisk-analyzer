@@ -1,0 +1,30 @@
+IP - 8.8.8.8 | Endpoint - / | Country - United States | ISP - GOOGLE | Date - 2026-04-15 19:17:37.700671+00:00 
+| Proxy - True | Tor - False | Block Reason - Hosting, proxy or bad IP | Hosting - True | Residential Proxy - False | Cloud Gaming - False | Relay - False | Score - 10 | Risk - HIGH
+
+IP - 8.8.8.8 | Endpoint - /ip/8.8.8.8 | Country - United States | ISP - GOOGLE | Date - 2026-04-15 19:37:57.011841+00:00 
+| Proxy - True | Tor - False | Block Reason - Hosting, proxy or bad IP | Hosting - True | Residential Proxy - False | Cloud Gaming - False | Relay - False | Score - 10 | Risk - HIGH
+
+IP - 8.8.8.8 | Endpoint - /ip/8.8.8.8 | Country - United States | ISP - GOOGLE | Date - 2026-04-15 19:38:25.810824+00:00 
+| Proxy - True | Tor - False | Block Reason - Hosting, proxy or bad IP | Hosting - True | Residential Proxy - False | Cloud Gaming - False | Relay - False | Score - 10 | Risk - HIGH
+
+IP - 8.8.8.8 | Endpoint - /ip/8.8.8.8 | Country - United States | ISP - GOOGLE | Date - 2026-04-15 19:39:32.210176+00:00 
+| Proxy - True | Tor - False | Block Reason - Hosting, proxy or bad IP | Hosting - True | Residential Proxy - False | Cloud Gaming - False | Relay - False | Score - 10 | Risk - HIGH
+
+IP - 8.8.8.8 | Endpoint - /ip/8.8.8.8 | Country - United States | ISP - GOOGLE | Date - 2026-04-15 19:39:50.444734+00:00 
+| Proxy - True | Tor - False | Block Reason - Hosting, proxy or bad IP | Hosting - True | Residential Proxy - False | Cloud Gaming - False | Relay - False | Score - 10 | Risk - HIGH
+
+IP - 8.8.8.8 | Endpoint - /ip/8.8.8.8 | Country - United States | ISP - GOOGLE | Date - 2026-04-15 19:40:36.000320+00:00 
+| Proxy - True | Tor - False | Block Reason - Hosting, proxy or bad IP | Hosting - True | Residential Proxy - False | Cloud Gaming - False | Relay - False | Score - 10 | Risk - HIGH
+
+IP - 8.8.8.8 | Endpoint - /ip/8.8.8.8 | Country - United States | ISP - GOOGLE | Date - 2026-04-15 19:40:52.365285+00:00 
+| Proxy - True | Tor - False | Block Reason - Hosting, proxy or bad IP | Hosting - True | Residential Proxy - False | Cloud Gaming - False | Relay - False | Score - 10 | Risk - HIGH
+
+IP - 8.8.8.8 | Endpoint - /ip/8.8.8.8 | Country - United States | ISP - GOOGLE | Date - 2026-04-15 19:40:55.335777+00:00 
+| Proxy - True | Tor - False | Block Reason - Hosting, proxy or bad IP | Hosting - True | Residential Proxy - False | Cloud Gaming - False | Relay - False | Score - 10 | Risk - HIGH
+
+IP - 8.8.8.8 | Endpoint - /ip/8.8.8.8 | Country - United States | ISP - GOOGLE | Date - 2026-04-15 19:41:30.203623+00:00 
+| Proxy - True | Tor - False | Block Reason - Hosting, proxy or bad IP | Hosting - True | Residential Proxy - False | Cloud Gaming - False | Relay - False | Score - 10 | Risk - HIGH
+
+IP - 8.8.8.8 | Endpoint - /ip/8.8.8.8 | Country - United States | ISP - GOOGLE | Date - 2026-04-15 19:42:32.361114+00:00 
+| Proxy - True | Tor - False | Block Reason - Hosting, proxy or bad IP | Hosting - True | Residential Proxy - False | Cloud Gaming - False | Relay - False | Score - 10 | Risk - HIGH
+
