@@ -40,25 +40,6 @@ def log():
     response = requests.get(f"https://v2.api.iphub.info/ip/{ip}", headers={"X-Key": token})
     data = response.json()
 
-    data = {
-        "hostname": "dns.google", 
-        "ip": "8.8.8.8",
-        "asn": 15169,
-        "isp": "GOOGLE",
-        "countryCode": "US",
-        "countryName": "United States",
-        "block": 1,
-        "blockReason": "Hosting, proxy or bad IP",
-        "proxyType": {
-            "proxy": True,
-            "tor": False,
-            "hosting": True,
-            "relay": False,
-            "residentialProxy": False,
-            "cloudGaming": False
-        }
-    }
-
     isp = data.get('isp')
     country = data.get('countryName')
     blockReason = data.get('blockReason')
