@@ -1,1 +1,8 @@
 .env
+venv/
+logs.json
+logs.txt
+__pycache__/
+*.pyc
+/http
+env/
